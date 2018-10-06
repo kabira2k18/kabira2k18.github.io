@@ -1449,20 +1449,17 @@ ul#nav li.current a:after {
 }
 #req
 {
-	text-align:;
 	font-size:30px;
 	line-height:3;
 }
 #o
 {
-	text-align:;
 	font-size:25px;
 	line-height:normal;
 }
 #l
 {
-	text-align:;
-	font-size:20px;
+	font-size:25px;
 	line-height:normal;
 }
 
@@ -1513,13 +1510,16 @@ ul#nav li.current a:after {
 
 	#req
 {
-	text-align:;
 	font-size:25px;
 	line-height:normal;
 }
 #o
 {
-	text-align:;
+	font-size:20px;
+	line-height:normal;
+}
+#l
+{
 	font-size:20px;
 	line-height:normal;
 }
