@@ -1124,6 +1124,12 @@ ul#nav li.current a:after {
 		word-spacing:normal;
 		font-size:30px;
 	}
+	#about {
+	background: #111417;
+	padding-top: 70px;
+	padding-bottom: 30px;
+	border-bottom: 1px solid #15191d;
+}
 }
 
 /* process
