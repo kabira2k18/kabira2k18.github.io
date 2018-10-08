@@ -472,6 +472,37 @@ ul#nav li.current a:after {
 	.hero-content {
 		padding-top: 70px;
 	}
+		.hero-content {
+		margin-left: 14px;
+		padding-top: 140px;
+		line-height:37px;
+	}
+#welcome
+{
+	font-size:20px;
+	color:#fff;
+}
+#name
+{
+	font-size: 25px;
+	color: #fff;
+	letter-spacing:5px; 
+}
+#date
+{
+	font-size:15px;
+	color:#fff;
+}
+#loc
+{
+	font-size:15px;
+	color:#fff;
+}
+#time
+{
+	font-size:15px; 
+	color:#fff;
+}
 
 }
 
@@ -531,7 +562,6 @@ ul#nav li.current a:after {
 {
 	font-size:15px; 
 	color:#fff;
-}
 }
 
 }
