@@ -497,6 +497,49 @@ ul#nav li.current a:after {
 	.hero-content {
 		padding-bottom: 70px;
 	}
+	#hero {
+	background: #0F1215 url(../images/pvf2.jpg) no-repeat center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	min-height: 500px;
+	width: 100%;
+	text-align: center;
+	position: relative;
+	border-bottom: 1px solid #15191d;
+}
+	.hero-content {
+		margin-left: 14px;
+		padding-top: 140px;
+		line-height:37px;
+	}
+#welcome
+{
+	font-size:20px;
+	color:#fff;
+}
+#name
+{
+	font-size: 25px;
+	color: #fff;
+	letter-spacing:5px; 
+}
+#date
+{
+	font-size:15px;
+	color:#fff;
+}
+#loc
+{
+	font-size:15px;
+	color:#fff;
+}
+#time
+{
+	font-size:15px; 
+	color:#fff;
+}
+}
 
 }
 
