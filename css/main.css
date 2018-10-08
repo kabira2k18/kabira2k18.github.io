@@ -1586,22 +1586,21 @@ ul#nav li.current a:after {
 	#regis .right p.lead {
 		font: 17px/33px "merriweather-light", serif;
 	}
-		#req
-{
+	#req
+	{
 	font-size:25px;
 	line-height:normal;
-}
-#o
-{
+	}
+	#o
+	{
 	font-size:20px;
 	line-height:normal;
-}
-#l
-{
+	}
+	#l
+	{
 	font-size:20px;
 	line-height:normal;
-}
-
+	}
 }
 
 @media only screen and (max-width:400px) {
