@@ -1634,7 +1634,7 @@ ul#nav li.current a:after {
 	#req
 	{
 	font-size:25px;
-	line-height:2;
+	line-height:1;
 	}
 	#o
 	{
@@ -1657,7 +1657,7 @@ ul#nav li.current a:after {
 	#req
 {
 	font-size:25px;
-	line-height:2;;
+	line-height:1;
 }
 #o
 {
