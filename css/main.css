@@ -1607,7 +1607,7 @@ ul#nav li.current a:after {
 	#req
 	{
 	font-size:25px;
-	line-height:normal;
+	line-height:2px;
 	}
 	#o
 	{
@@ -1634,7 +1634,7 @@ ul#nav li.current a:after {
 	#req
 	{
 	font-size:25px;
-	line-height:normal;
+	line-height:2px;
 	}
 	#o
 	{
@@ -1657,7 +1657,7 @@ ul#nav li.current a:after {
 	#req
 {
 	font-size:25px;
-	line-height:normal;
+	line-height:2px;;
 }
 #o
 {
@@ -1796,6 +1796,13 @@ input[type="email"],
 	#contact .right {
 		padding: 0;
 	}
+	#contact {
+	background: #12151B;
+	padding-top: 80px;
+	padding-bottom: 80px;
+	overflow: hidden;
+	border-bottom: 1px solid #15191d;  
+}
 
 }
 
