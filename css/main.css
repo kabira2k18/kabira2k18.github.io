@@ -1638,12 +1638,12 @@ ul#nav li.current a:after {
 	#o
 	{
 	font-size:20px;
-	line-height:normal;
+	line-height:2px;;
 	}
 	#l
 	{
 	font-size:20px;
-	line-height:normal;
+	line-height:2px;
 	}
 
 }
