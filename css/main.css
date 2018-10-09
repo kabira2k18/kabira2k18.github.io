@@ -649,13 +649,13 @@ ul#nav li.current a:after {
 	border-bottom: 1px solid #15191d;
 }
 	.hero-content {
-		margin-right: 25px;
-		padding-top: 130px;
-		line-height:32px;
+		margin-left: 18px;
+		padding-top: 140px;
+		line-height:37px;
 	}
 #welcome
 {
-	font-size:15px;
+	font-size:17px;
 	color:#fff;
 }
 #name
