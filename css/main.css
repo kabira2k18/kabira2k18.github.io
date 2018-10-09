@@ -470,7 +470,7 @@ ul#nav li.current a:after {
 
 @media only screen and (max-width:1024px) {
 	.hero-content {
-		padding-top: 70px;
+		padding-top: 60px;
 	}
 		.hero-content {
 		margin-left: 30px;
@@ -479,28 +479,28 @@ ul#nav li.current a:after {
 	}
 #welcome
 {
-	font-size:30px;
+	font-size:33px;
 	color:#fff;
 }
 #name
 {
-	font-size: 35px;
+	font-size: 38px;
 	color: #fff;
 	letter-spacing:5px; 
 }
 #date
 {
-	font-size:20px;
+	font-size:27px;
 	color:#fff;
 }
 #loc
 {
-	font-size:20px;
+	font-size:27px;
 	color:#fff;
 }
 #time
 {
-	font-size:20px; 
+	font-size:27px; 
 	color:#fff;
 }
 
