@@ -648,14 +648,13 @@ ul#nav li.current a:after {
 	position: relative;
 	border-bottom: 1px solid #15191d;
 }
-	.hero-container {
+	.hero-content {
 		margin-right: -25px;
 		padding-top: 130px;
 		line-height:32px;
 	}
 #welcome
 {
-	margin-left:50px;
 	font-size:15px;
 	color:#fff;
 }
