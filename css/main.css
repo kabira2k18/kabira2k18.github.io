@@ -463,15 +463,10 @@ ul#nav li.current a:after {
 /* media queries:  
 /* #hero / .hero-contert / #hero-slider */
 
-@media only screen and (max-width:1200px) {
-	
-
-}
-
 @media only screen and (max-width:1024px) {
 		.hero-content {
 		margin-left: 30px;
-		padding-top: 140px;
+		padding-top: 120px;
 		line-height:50px;
 	}
 #welcome
