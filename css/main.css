@@ -1633,17 +1633,17 @@ ul#nav li.current a:after {
 	#req
 	{
 	font-size:25px;
-	line-height:20px;
+	line-height:25px;
 	}
 	#o
 	{
 	font-size:20px;
-	line-height:20px;;
+	line-height:25px;;
 	}
 	#l
 	{
 	font-size:20px;
-	line-height:20px;
+	line-height:25px;
 	}
 
 }
