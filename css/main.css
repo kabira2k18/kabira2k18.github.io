@@ -649,7 +649,7 @@ ul#nav li.current a:after {
 	border-bottom: 1px solid #15191d;
 }
 	.hero-content {
-		margin-right: -25px;
+		margin-right: 25px;
 		padding-top: 130px;
 		line-height:32px;
 	}
