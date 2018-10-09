@@ -469,9 +469,6 @@ ul#nav li.current a:after {
 }
 
 @media only screen and (max-width:1024px) {
-	.hero-content {
-		padding-top: 55px;
-	}
 		.hero-content {
 		margin-left: 30px;
 		padding-top: 140px;
