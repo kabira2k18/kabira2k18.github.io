@@ -479,28 +479,28 @@ ul#nav li.current a:after {
 	}
 #welcome
 {
-	font-size:20px;
+	font-size:30px;
 	color:#fff;
 }
 #name
 {
-	font-size: 25px;
+	font-size: 35px;
 	color: #fff;
 	letter-spacing:5px; 
 }
 #date
 {
-	font-size:15px;
+	font-size:20px;
 	color:#fff;
 }
 #loc
 {
-	font-size:15px;
+	font-size:20px;
 	color:#fff;
 }
 #time
 {
-	font-size:15px; 
+	font-size:20px; 
 	color:#fff;
 }
 
