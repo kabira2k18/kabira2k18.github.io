@@ -655,6 +655,7 @@ ul#nav li.current a:after {
 	}
 #welcome
 {
+	margin-left:50px;
 	font-size:15px;
 	color:#fff;
 }
