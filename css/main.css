@@ -648,7 +648,7 @@ ul#nav li.current a:after {
 	position: relative;
 	border-bottom: 1px solid #15191d;
 }
-	.hero-content {
+	.hero-container {
 		margin-right: -25px;
 		padding-top: 130px;
 		line-height:32px;
